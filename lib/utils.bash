@@ -2,7 +2,6 @@
 
 set -euo pipefail
 
-# TODO: Ensure this is the correct GitHub homepage where releases can be downloaded for tech-pass.
 GH_REPO="https://git.tmaws.io/core-platform/tech-pass"
 TOOL_NAME="tech-pass"
 TOOL_TEST="tech-pass version"
